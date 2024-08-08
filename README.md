@@ -1,6 +1,8 @@
 # Student-Registration-Management-
 Student Registration &amp;&amp; Management using python 
 
+#OUTPUT
+
 ![Capture](https://github.com/user-attachments/assets/a74d9d8f-e631-46da-9a56-1d893b4db904)
 
 
